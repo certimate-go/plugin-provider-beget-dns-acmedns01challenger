@@ -1,0 +1,9 @@
+{
+  "plugin.beget-dns.name": "Бегет（Beget）",
+  "plugin.beget-dns.description": "通过 Бегет（Beget） 完成 ACME DNS-01 验证。",
+  "plugin.beget-dns.access.username.label": "Beget 用户名",
+  "plugin.beget-dns.access.username.placeholder": "请输入 Beget 用户名",
+  "plugin.beget-dns.access.apiPassword.label": "Beget API 密码",
+  "plugin.beget-dns.access.apiPassword.tooltip": "这是什么？请参阅 <a href=\"https://cp.beget.com/settings/security/api\" target=\"_blank\">https://cp.beget.com/settings/security/api</a>",
+  "plugin.beget-dns.access.apiPassword.placeholder": "请输入 Beget API 密码"
+}

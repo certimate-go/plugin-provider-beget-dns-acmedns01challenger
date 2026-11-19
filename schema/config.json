@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "beget-dns",
+  "category": "apply",
+  "schema": {
+    "columns": []
+  }
+}

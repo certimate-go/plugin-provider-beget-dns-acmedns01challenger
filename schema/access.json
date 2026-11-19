@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "beget",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "username",
+        "valueType": "text",
+        "labelKey": "plugin.beget-dns.access.username.label",
+        "placeholderKey": "plugin.beget-dns.access.username.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiPassword",
+        "valueType": "secret",
+        "labelKey": "plugin.beget-dns.access.apiPassword.label",
+        "tooltipKey": "plugin.beget-dns.access.apiPassword.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.beget-dns.access.apiPassword.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "plugin.beget-dns.name": "Бегет (Beget)",
+  "plugin.beget-dns.description": "ACME DNS-01 via Бегет (Beget).",
+  "plugin.beget-dns.access.username.label": "Beget username",
+  "plugin.beget-dns.access.username.placeholder": "Please enter Beget username",
+  "plugin.beget-dns.access.apiPassword.label": "Beget API password",
+  "plugin.beget-dns.access.apiPassword.tooltip": "For more information, see <a href=\"https://cp.beget.com/settings/security/api\" target=\"_blank\">https://cp.beget.com/settings/security/api</a>",
+  "plugin.beget-dns.access.apiPassword.placeholder": "Please enter Beget API password"
+}
